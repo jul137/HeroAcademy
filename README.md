@@ -1,22 +1,38 @@
 # HeroAcademy
 Curso intensivo sobre "Neural Networks: Zero to Hero" de Andrej Karpathy
 Plan Intensivo de 21 Días para el Curso
-Días Adicionales (Pre-requisitos)
-Día 1-2: Fundamentos Previos
+
+## Fundamentos Previos (2 días)
 
 Día 1:
 
 Python y Programación Orientada a Objetos (POO):
 Revisión de sintaxis básica de Python.
 Conceptos de POO.
-Sesión de Discord: Canal de voz para resolver dudas sobre Python y POO.
+
+Probabilidad y Estadística:
+Conceptos básicos de probabilidad.
+Distribuciones de probabilidad.
+Recursos: Khan Academy o cualquier curso básico de probabilidad y estadística.
+
+Sesión de Discord: Canal de voz para resolver dudas sobre Python, POO y Probabilidad y Estadística.
+
 Día 2:
 
-Álgebra Lineal y Cálculo:
+Álgebra Lineal:
 Vectores y matrices.
+Operaciones básicas con matrices (suma, multiplicación, transposición).
+Recursos: Khan Academy o cualquier otro curso básico de álgebra lineal en YouTube.
+
+Cálculo:
 Derivadas e integrales básicas.
-Sesión de Discord: Canal de voz para resolver dudas sobre álgebra y cálculo.
-Curso Intensivo (19 días)
+Conceptos de gradiente y su aplicación en optimización.
+Recursos: Khan Academy o tutoriales de cálculo en YouTube.
+
+Sesión de Discord: Canal de voz para resolver dudas Cálculo y Álgebra Lineal
+
+## Curso Intensivo (19 días)
+
 Semana 1 (Día 3-9)
 Día 3: Introducción a Redes Neuronales
 
