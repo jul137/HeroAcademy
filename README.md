@@ -34,7 +34,7 @@ Sesión de Discord: Canal de voz para resolver dudas Cálculo y Álgebra Lineal
 
 ## Curso Intensivo (19 días)
 
-Semana 1 (Día 3-9)
+**- Semana 1 (Día 3-9)**
 
 Día 3: Introducción a Redes Neuronales
 
@@ -75,7 +75,8 @@ Sesión de Discord: Ver el video en grupo y discutir conceptos clave.
 Día 9: Discusión en Grupo
 
 Sesión de Discord: Discutir los conceptos de la primera semana y resolver dudas.
-Semana 2 (Día 10-16)
+
+**- Semana 2 (Día 10-16)**
 
 Día 10-11: Construcción de GPT
 
@@ -105,7 +106,7 @@ Día 16: Discusión en Grupo
 
 Sesión de Discord: Discutir los conceptos de la segunda semana y resolver dudas.
 
-Semana 3 (Día 17-21)
+**- Semana 3 (Día 17-21)**
 
 Día 17-18: Implementación de Proyectos
 
