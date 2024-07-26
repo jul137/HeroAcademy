@@ -1,5 +1,6 @@
 # HeroAcademy
 Curso intensivo sobre "Neural Networks: Zero to Hero" de Andrej Karpathy
+
 Plan Intensivo de 21 Días para el Curso
 
 ## Fundamentos Previos (2 días)
