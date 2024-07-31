@@ -5,7 +5,7 @@
 * **Redes Neuronales Convolucionales (CNNs)**: 
 	*  ¿Qué es una red neuronal convolucional (CNN)?
 	* ¿Cuál es la principal diferencia entre una red neuronal completamente conectada (fully connected) y una red neuronal convolucional?
-	* ¿Qué es un filtro o kernel en una CNN?*
+	* ¿Qué es un filtro o kernel en una CNN?
 	* ¿Qué es un mapa de características (feature map)?
 * Validación de modelos: 
 	* ¿Qué es el underfitting en un modelo de machine learning?
